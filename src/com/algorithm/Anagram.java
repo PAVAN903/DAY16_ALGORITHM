@@ -19,8 +19,8 @@ public class Anagram {
 	}
 
 	public static void main(String[] args) {
-		char str1[]= {'t','e','s','t'};
-		char str2[]= {'p','a','v','a','n'};
+		char str1[]= {'e','a','r','t','h'};
+		char str2[]= {'h','e','n','r','t'};
 		if(anaGram(str1,str2)) {
 			System.out.println("two strings are "+"anagram of are each other");
 		}else {
